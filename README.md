@@ -2,7 +2,7 @@
   <img width="200" height="200" src="https://user-images.githubusercontent.com/48489202/143499889-ff49ec6b-63b9-44c4-bdb0-85e810387572.png">
 </p>
 <p align="justify">
-<b>MikiScout</b> est une application web permettant l'achat et la vente de véhicules. Le vendeur peut déposer des annonces sur la plateforme et les 
+<b>MikiScout</b> est une application web permettant l'achat et la vente de véhicules en ligne. Le vendeur peut déposer des annonces sur la plateforme et les 
 supprimer. L’acheteur peut consulter et rentrer en contact avec le vendeur du véhicule qui l’intéresse.
 </p>
 
@@ -25,6 +25,9 @@ supprimer. L’acheteur peut consulter et rentrer en contact avec le vendeur du 
 </p>
 <p align="center">
 	<img  src="https://user-images.githubusercontent.com/48489202/143500151-348770f6-2af8-4cac-b475-a11bf7e6cd2e.png">
+</p>
+<p align="center">
+	<img  src="https://user-images.githubusercontent.com/48489202/143500152-933eaa2a-408d-4231-873c-ed9a3b2516b4.png">
 </p>
 	
 </p>
