@@ -18,11 +18,13 @@ supprimer. L’acheteur peut consulter et rentrer en contact avec le vendeur du 
 
 ## Captures d'écran
 <p align="center">
-	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312125-cde21f18-24c4-447e-9748-e14961e4fdb0.jpg">
-	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312185-6ff5e732-7064-4846-98d3-779cb22d60ed.jpg">
-	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312178-cc89b2aa-1ded-47e0-a7d1-cd244988fab3.jpg">
-	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312156-3f9fee8c-2c0b-484a-9674-630fa1ee7f2c.png">
-	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312166-bea856a8-982d-47f3-9cea-a003e1cd1a15.jpg">
-	<img width="150" height="300" src="https://user-images.githubusercontent.com/48489202/143312143-e4e0018c-d812-4aa9-8538-a2879d35b4d1.jpg">
+	<img  src="https://user-images.githubusercontent.com/48489202/143500163-963ed893-83d2-4d2e-8936-db5a27b179ad.png">
+</p>
+<p align="center">
+	<img  src="https://user-images.githubusercontent.com/48489202/143500149-261a2d56-6d0d-4a33-b5cd-8c3b10d4af18.png">
+</p>
+<p align="center">
+	<img  src="https://user-images.githubusercontent.com/48489202/143500151-348770f6-2af8-4cac-b475-a11bf7e6cd2e.png">
+</p>
 	
 </p>
